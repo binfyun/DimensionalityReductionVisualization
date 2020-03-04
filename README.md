@@ -3,11 +3,15 @@
 Reduction techniques:
 
 PCA
+
 T-SNE
+
 UMAP
 
 Plotting:
 
 Utilizing plotly for 3D plot
-seaborn
-matplotlib
+
+Seaborn
+
+Matplotlib
