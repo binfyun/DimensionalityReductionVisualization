@@ -1,4 +1,4 @@
-# python module for handle high dimentional data and visualization
+# python module for handling high dimentional data and visualization
 
 ## Reduction techniques:
 
