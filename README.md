@@ -1,6 +1,6 @@
 # python module for handle high dimentional data and visualization
 
-Reduction techniques:
+## Reduction techniques:
 
 PCA
 
@@ -8,7 +8,7 @@ T-SNE
 
 UMAP
 
-Plotting:
+## Plotting:
 
 Utilizing plotly for 3D plot
 
